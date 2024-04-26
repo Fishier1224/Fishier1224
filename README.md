@@ -5,7 +5,7 @@
 
 - Reach me: **athenamo@g.ucla.edu**
 
-- My CV: [https://drive.google.com/file/d/1SUzV9I0lHgZBmCM-kmC3zjln0CDtkB7a/view?usp=sharing](https://drive.google.com/file/d/1SUzV9I0lHgZBmCM-kmC3zjln0CDtkB7a/view?usp=sharing)
+- My CV: [Athena's Feb2024 Resume](https://drive.google.com/file/d/1SUzV9I0lHgZBmCM-kmC3zjln0CDtkB7a/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
