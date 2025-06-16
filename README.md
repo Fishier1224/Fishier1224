@@ -1,7 +1,6 @@
-<h1 align="center">Athena (Chou) Mo</h1>
-<h3 align="center">A second year mathematics of computation major at UCLA</h3>
+Athena (Chou) Mo
+A second year mathematics of computation major at UCLA
 
-- I’m currently working on **CNN / Transformer + Openpose Pipeline for Human Pose Recognition**
-
+- My Page: https://sites.google.com/view/athenamo/
 - Reach me: **athenamo@g.ucla.edu**
 
